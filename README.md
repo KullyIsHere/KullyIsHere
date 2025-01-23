@@ -1,4 +1,7 @@
-## Hi there 👋
+## KullyIsHere
+
+I am a programmer. Mostly focusing on Godot projects and miscellanous.
+GIT is cool
 
 <!--
 **KullyIsHere/KullyIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
